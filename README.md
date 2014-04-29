@@ -1,4 +1,4 @@
-data visualization
+Data Visualization
 ==========
 
 Description: Application used to make a statistics to data, and visualization it.
