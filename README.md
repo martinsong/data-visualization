@@ -1,4 +1,7 @@
-dataDriven
+data visualization
 ==========
 
-Create some statistics result with D3 and Nodejs and Mongodb 
+Description: Application used to make a statistics to data, and visualization it.
+
+Environment: Nodejs -> Mongo, D3.js
+
